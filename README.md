@@ -151,15 +151,6 @@ int main(int argc, char *argv[]) {
 
 <img width="533" height="60" alt="image" src="https://github.com/user-attachments/assets/192eab12-d598-42aa-b7e8-61883c9e36cd" />
 
-
-
-
-
-
-
-
-
-
 ![WhatsApp Image 2026-02-27 at 10 12 24 AM](https://github.com/user-attachments/assets/8eae73d4-5e1c-41e4-b8e6-2d275fd402f4)
 
 
